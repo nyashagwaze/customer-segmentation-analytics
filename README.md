@@ -101,6 +101,9 @@ Deliver a transparent, reproducible analytics workflow that:
 ## Dataset
 Raw input:
 - `data/raw/retail_customer_segmentation.csv`
+- Kaggle source: https://www.kaggle.com/datasets/rohit8527kmr7518/online-retail-customer-classification-dataset
+- Licence: **CC0 Public Domain**
+- Provenance details: [DATASET_SOURCE.md](DATASET_SOURCE.md)
 
 Main columns:
 - `customer_id`

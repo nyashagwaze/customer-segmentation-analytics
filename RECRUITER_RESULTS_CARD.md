@@ -8,6 +8,8 @@ Identify reliable signals for customer segmentation and targeting, while explici
 
 ## Data and Scope
 - Dataset: `data/raw/retail_customer_segmentation.csv`
+- Source: https://www.kaggle.com/datasets/rohit8527kmr7518/online-retail-customer-classification-dataset
+- Licence: **CC0 Public Domain**
 - Unit of analysis: customer-level records
 - Constraint: no native churn event label, so findings are associational (not causal)
 
