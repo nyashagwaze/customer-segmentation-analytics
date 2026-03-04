@@ -1,0 +1,6 @@
+check_name,statistic,p_value,criterion,passed,notes
+anova_residual_normality_shapiro,0.9126149406248295,5.73048809695455e-47,p_value > 0.05,False,Residual sample size=5000
+anova_variance_homogeneity_levene,606.7550050974687,0.0,p_value > 0.05,False,Median-centred Levene test across customer segments.
+chi_square_expected_counts,1070.31354,,min_expected >= 1 and share_expected_lt5 <= 0.20,True,share_expected_lt5=0.000
+welch_ttest_robustness_mann_whitney,312309180.0,0.6995464949076645,compare directionality against Welch t-test,True,Non-parametric sensitivity check for two-group difference.
+spearman_pearson_direction_consistency,0.007898023765293076,0.07738994489754351,sign(spearman_rho) == sign(pearson_r),True,"Spearman rho=0.0042, Pearson r=0.0079"

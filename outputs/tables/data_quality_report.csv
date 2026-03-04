@@ -1,0 +1,15 @@
+column,dtype,missing_pct,n_unique
+customer_id,int64,0.0,50000
+age,int64,0.0,53
+annual_income,float64,6.15,46925
+months_active,int64,0.0,72
+avg_monthly_spend,float64,5.04,47480
+purchase_frequency,float64,3.9579999999999997,48021
+avg_order_value,float64,0.0,50000
+discount_usage_rate,float64,5.098,47451
+return_rate,float64,4.974,47513
+browsing_time_minutes,float64,7.868,46066
+support_interactions,float64,3.9759999999999995,10
+payment_method,str,0.0,3
+region,str,0.0,3
+customer_segment,str,0.0,4

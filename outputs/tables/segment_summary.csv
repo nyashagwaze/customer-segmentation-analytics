@@ -1,0 +1,5 @@
+customer_segment,customers,avg_income,avg_monthly_spend,avg_purchase_frequency,avg_return_rate,avg_engagement
+Occasional,22109,44127.48,381.596,3.301,0.148,-0.69
+Regular,13455,43817.576,270.16,4.811,0.147,0.092
+Loyal,9163,44244.636,245.246,6.742,0.149,0.747
+High_Value,5273,44128.81,463.773,8.449,0.148,1.36

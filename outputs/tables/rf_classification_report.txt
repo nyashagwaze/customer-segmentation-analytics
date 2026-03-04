@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+  High_Value       0.84      0.80      0.82      1055
+       Loyal       0.86      0.78      0.82      1832
+  Occasional       0.76      0.84      0.80      4422
+     Regular       0.64      0.58      0.61      2691
+
+    accuracy                           0.75     10000
+   macro avg       0.77      0.75      0.76     10000
+weighted avg       0.75      0.75      0.75     10000
