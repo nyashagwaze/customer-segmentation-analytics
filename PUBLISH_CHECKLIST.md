@@ -24,6 +24,7 @@ Confirm these outputs exist and are current:
 2. Check screenshots display in `README.md`.
 3. Ensure UK spelling consistency in key docs.
 4. Confirm limitations and non-causal caveats are explicit.
+5. Confirm dataset licence/terms allow public redistribution (or document source and exclude raw data if required).
 
 ## 3) Git Hygiene
 If this project has not been initialised as its own repository:
