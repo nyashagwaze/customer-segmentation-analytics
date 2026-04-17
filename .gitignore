@@ -23,3 +23,5 @@ Thumbs.db
 *.parquet
 *.pkl
 *.joblib
+PUBLISH_CHECKLIST.md
+RECRUITER_RESULTS_CARD.md
