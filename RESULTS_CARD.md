@@ -1,4 +1,4 @@
-# Recruiter Results Card: Statistical Analysis Portfolio
+#  Results Card: Statistical Analysis Portfolio
 
 ## Project in 30 Seconds
 I analysed 50,000 customer-level retail records to test which factors genuinely distinguish customer value and segment behaviour. I built a reproducible, script-first workflow that produces cleaned data, statistical tests, validation checks, clustering outputs, and presentation-ready figures.
